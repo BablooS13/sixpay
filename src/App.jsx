@@ -83,7 +83,7 @@ headers: {
       page: String(page),
       limit: String(REQUEST_LIMIT),
       if_asc: 'false',
-      min_amount: '5000',
+      min_amount: '3000',
       max_amount: '100000',
       method: '1',
       date_asc: '1',
